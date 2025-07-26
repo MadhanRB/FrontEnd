@@ -1,0 +1,6 @@
+cd frontend
+git init
+git remote add origin https://github.com/FrontEnd/conversational-ai-project.git
+git add.
+git commit -m "feat: Complete Milestone 6 - Core Chat UI Components"
+git push origin main
